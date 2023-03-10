@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdomibrahim" target="blank"><img src="https://img.shields.io/twitter/follow/abdomibrahim?logo=twitter&style=for-the-badge" alt="abdomibrahim" /></a> </p>
 
-- 🔭 I’m currently working on **Groovy "Music Streaming App"**
+- 🔭 I’m currently working on **Khazana (Books Marketplace)**
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdo.moustafa.1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lMo3u8EHjSh_3ctYl8u7kkz2aO2PSSHy/view?usp=sharing](https://drive.google.com/file/d/1lMo3u8EHjSh_3ctYl8u7kkz2aO2PSSHy/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1nr_VsonS2oIT1F3F42LjXde2vjsJmY9o/view?usp=sharing](https://drive.google.com/file/d/1nr_VsonS2oIT1F3F42LjXde2vjsJmY9o/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
